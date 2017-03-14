@@ -1,3 +1,5 @@
 # BlgmDeneme
-varsayılan branch: master
-readme ilk versiyon
+
+
+yeni branch: read me-edit oldu
+read me ikinci versiyon
